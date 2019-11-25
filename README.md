@@ -2,7 +2,7 @@
 
 The notebooks (`Cepheids.ipynb` and `RR_Lyrae.ipynb`) provide the source code for all of the analysis and all of the figures presented in the paper. The `matplotlibrc` file is for making the plots pretty. 
 
-If the notebooks do not display properly, try these nbviewer links instead:
+Github sometimes has problems displaying jupyter notebooks. If the notebooks do not display properly, try these nbviewer links instead:
 [Cepheids.ipynb](https://github.com/earlbellinger/Cepheid-neural-network/blob/master/Cepheids.ipynb), 
 [RR_Lyrae.ipynb](https://github.com/earlbellinger/Cepheid-neural-network/blob/master/RR_Lyrae.ipynb). 
 
