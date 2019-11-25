@@ -3,8 +3,8 @@
 The notebooks (`Cepheids.ipynb` and `RR_Lyrae.ipynb`) provide the source code for all of the analysis and all of the figures presented in the paper. The `matplotlibrc` file is for making the plots pretty. 
 
 If the notebooks do not display properly, try these nbviewer links instead:
-[https://github.com/earlbellinger/Cepheid-neural-network/blob/master/Cepheids.ipynb](Cepheids.ipynb), 
-[https://github.com/earlbellinger/Cepheid-neural-network/blob/master/RR_Lyrae.ipynb](RR_Lyrae.ipynb). 
+[Cepheids.ipynb](https://github.com/earlbellinger/Cepheid-neural-network/blob/master/Cepheids.ipynb), 
+[RR_Lyrae.ipynb](https://github.com/earlbellinger/Cepheid-neural-network/blob/master/RR_Lyrae.ipynb). 
 
 The trained neural networks can be found in the files of the associated names (`Cepheids.ann` and `RR_Lyrae.ann`). They can be loaded using the `joblib` library. See the above `ipynb` notebook files for usage and best practices (e.g., not using them on data outside of the range of the training set). 
 
