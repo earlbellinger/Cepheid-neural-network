@@ -1,4 +1,4 @@
-**[Bellinger, E. P.](https://earlbellinger.com), Kanbur, S. M., Bhardwaj, A., Marconi, M.** (2019). *When a Period Is Not a Full Stop: Light Curve Structure Reveals Fundamental Parameters of Cepheid and RR Lyrae Stars*. MNRAS accepted.
+**[Bellinger, E. P.](https://earlbellinger.com), Kanbur, S. M., Bhardwaj, A., Marconi, M.** (2019). *[When a Period Is Not a Full Stop: Light Curve Structure Reveals Fundamental Parameters of Cepheid and RR Lyrae Stars](https://arxiv.org/abs/1911.11767)*. MNRAS accepted.
 
 The notebooks (`Cepheids.ipynb` and `RR_Lyrae.ipynb`) provide the source code for all of the analysis and all of the figures presented in the paper. The `matplotlibrc` file is for making the plots pretty. 
 
